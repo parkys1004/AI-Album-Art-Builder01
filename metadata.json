@@ -1,0 +1,5 @@
+{
+  "name": "NeonArt - AI Album Art Builder",
+  "description": "An AI-powered album art generator using Gemini. Features neon aesthetics, style selection, prompt optimization, and typography editor.",
+  "requestFramePermissions": []
+}
